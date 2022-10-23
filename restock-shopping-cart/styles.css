@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  h1 {
+    color:rgba(19, 1, 1, 0.924);
+    padding: 10px;
+    text-align: center;
+  }
+  .box {
+    position:absolute;
+    margin: 2%;
+    background-color: #c8cacb;
+    max-width: 90vh;
+    margin-left: 25%;   
+  }
